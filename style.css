@@ -118,3 +118,17 @@ footer h2 {
     width: 20vh;
 }
 
+#skeleton1, #skeleton2 {
+    position: fixed;
+}
+
+#skeleton1 {
+    left: 0.5vw;
+    z-index: -1;
+}
+
+#skeleton2 {
+    right: 0.5vw;
+    z-index: -1;
+}
+
